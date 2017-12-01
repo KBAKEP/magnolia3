@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="magnolia3-webapp:war">
+    <output-path>$PROJECT_DIR$/magnolia3-webapp/target</output-path>
+    <root id="archive" name="MagnoliaAuthor.war">
+      <element id="artifact" artifact-name="magnolia3-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
